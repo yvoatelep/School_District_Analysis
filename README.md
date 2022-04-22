@@ -11,9 +11,9 @@ When the Thomas High School 9th grade scores are removed and district analysis i
 
 Similarly, the results of the analysis of schools by spending ranges per student do not change in any detectable way when the THS 9th grade scores are removed from the averages. In both, the range in which Thomas falls, $631-$645 per student, have an average Math Scocre of  78.5, average Reading Schore of 81.6 and an overall passing rate of 63%
 
-![This is an image](original anal 2)
+![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/original%20analysis%202.png)
 
-![This is an image](refigured analysis 2)
+![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/refigured%20analysis%202.png)
 
 
 ## Summary
