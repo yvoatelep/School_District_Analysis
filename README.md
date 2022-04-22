@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School_District_Analysis (Deliverable 3) 
 
 ## Overview of Project
 The goal of this analysis is to compare the average student performance of throughout the distric both with and without  Thomas High School 9th grade class, to better determine if cheating has taken place. The assumption would be that, if grades had been replaced with false grades for the THS 9th grade, then the averages without THS 9th grade would be lower than those with the 9th grade added
